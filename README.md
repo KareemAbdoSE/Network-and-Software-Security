@@ -1,4 +1,4 @@
-# Finvest Holdings Access Control System
+# Comprehensive Network Security Implementation
 
 A Python-based secure access control system for Finvest Holdings using RBAC and ACLs to protect financial data.
 
