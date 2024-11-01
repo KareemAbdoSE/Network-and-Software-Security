@@ -22,7 +22,7 @@ This project is a secure access control system implemented in Python for Finvest
 - **Comprehensive Testing:** Includes automated tests for access control and authentication mechanisms.
 
 ## Technologies Used
-- **Programming Language:** Python 3.x
+- **Programming Language:** Python
 - **Cryptography Modules:** hashlib, os
 - **Password Hashing Algorithm:** PBKDF2 HMAC SHA-256
 - **User Interface:** Command-line interfaces for enrollment and login
